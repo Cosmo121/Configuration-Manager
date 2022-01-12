@@ -1,2 +1,2 @@
 # SCCM-Query---Get-Windows-Build
-SQL script to grab devices that have a specific Windows build. Can be used in SCCM collections.
+SQL query to grab devices that have a specific Windows (workstation or server) build. Can be used in SCCM collection queries.
